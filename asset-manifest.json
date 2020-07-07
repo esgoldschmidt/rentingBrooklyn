@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/rentingBrooklyn/static/css/main.933a9479.chunk.css",
-    "main.js": "/rentingBrooklyn/static/js/main.c6558fd7.chunk.js",
-    "main.js.map": "/rentingBrooklyn/static/js/main.c6558fd7.chunk.js.map",
-    "runtime-main.js": "/rentingBrooklyn/static/js/runtime-main.0572ebda.js",
-    "runtime-main.js.map": "/rentingBrooklyn/static/js/runtime-main.0572ebda.js.map",
-    "static/js/2.5430232e.chunk.js": "/rentingBrooklyn/static/js/2.5430232e.chunk.js",
-    "static/js/2.5430232e.chunk.js.map": "/rentingBrooklyn/static/js/2.5430232e.chunk.js.map",
-    "index.html": "/rentingBrooklyn/index.html",
-    "precache-manifest.69d073dacad043895a5407dc4c300e7c.js": "/rentingBrooklyn/precache-manifest.69d073dacad043895a5407dc4c300e7c.js",
-    "service-worker.js": "/rentingBrooklyn/service-worker.js",
-    "static/css/main.933a9479.chunk.css.map": "/rentingBrooklyn/static/css/main.933a9479.chunk.css.map",
-    "static/js/2.5430232e.chunk.js.LICENSE.txt": "/rentingBrooklyn/static/js/2.5430232e.chunk.js.LICENSE.txt",
-    "static/media/LogoSquare.png": "/rentingBrooklyn/static/media/LogoSquare.759100ac.png",
-    "static/media/LogoSquareWhite.png": "/rentingBrooklyn/static/media/LogoSquareWhite.c06102a0.png",
-    "static/media/contactImage.png": "/rentingBrooklyn/static/media/contactImage.5e7cf790.png",
-    "static/media/mail.png": "/rentingBrooklyn/static/media/mail.10a75893.png",
-    "static/media/map.png": "/rentingBrooklyn/static/media/map.562f99d4.png",
-    "static/media/Home.css": "/rentingBrooklyn/static/media/splashHome.a28bb900.png",
-    "static/media/workStation.jpg": "/rentingBrooklyn/static/media/workStation.8784cb96.jpg"
+    "main.css": "/static/css/main.b4785ca6.chunk.css",
+    "main.js": "/static/js/main.45d59944.chunk.js",
+    "main.js.map": "/static/js/main.45d59944.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aaa2ff77.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aaa2ff77.js.map",
+    "static/js/2.5430232e.chunk.js": "/static/js/2.5430232e.chunk.js",
+    "static/js/2.5430232e.chunk.js.map": "/static/js/2.5430232e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5906a01ad3b5741b917677d4c806a022.js": "/precache-manifest.5906a01ad3b5741b917677d4c806a022.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b4785ca6.chunk.css.map": "/static/css/main.b4785ca6.chunk.css.map",
+    "static/js/2.5430232e.chunk.js.LICENSE.txt": "/static/js/2.5430232e.chunk.js.LICENSE.txt",
+    "static/media/LogoSquare.png": "/static/media/LogoSquare.759100ac.png",
+    "static/media/LogoSquareWhite.png": "/static/media/LogoSquareWhite.c06102a0.png",
+    "static/media/contactImage.png": "/static/media/contactImage.5e7cf790.png",
+    "static/media/mail.png": "/static/media/mail.10a75893.png",
+    "static/media/map.png": "/static/media/map.562f99d4.png",
+    "static/media/Home.css": "/static/media/splashHome.a28bb900.png",
+    "static/media/workStation.jpg": "/static/media/workStation.8784cb96.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0572ebda.js",
+    "static/js/runtime-main.aaa2ff77.js",
     "static/js/2.5430232e.chunk.js",
-    "static/css/main.933a9479.chunk.css",
-    "static/js/main.c6558fd7.chunk.js"
+    "static/css/main.b4785ca6.chunk.css",
+    "static/js/main.45d59944.chunk.js"
   ]
 }
