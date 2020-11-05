@@ -1,3 +1,5 @@
+Live version can be viewed at: https://esgoldschmidt.github.io/rentingBrooklyn
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
